@@ -26,8 +26,9 @@ El script `webcam.py` realiza las siguientes acciones:
 5. Convierte cada cuadro a escala de grises y detecta caras en la imagen.
 6. Dibuja un rectángulo alrededor de cada cara detectada y muestra el número total de caras detectadas.
 7. Muestra el cuadro actual en la pantalla.
+
 > [!IMPORTANT]
-> 8. Permite salir del bucle de captura pulsando la tecla 'q'.
+> Cierra el programa de captura pulsando la tecla 'q'.
 
 ## Cómo ejecutar
 
@@ -41,7 +42,7 @@ Esto abrirá una ventana que muestra el video capturado por la cámara web con l
 
 > [!NOTE]
 > - Asegúrate de tener una cámara web conectada y funcionando.
-> [!NOTE]
 > - Puedes ajustar los parámetros del clasificador y las propiedades del video según tus necesidades.
+
 > [!IMPORTANT]
 > - Obviamente el rendimiento y los resultados del script dependen de las características de tu sistema.
